@@ -4,7 +4,7 @@
 
 🎧 Rap and Techno listener S/O
 
-🌍 Geopolitical interested
+🌍 Geopolitics enthusiast
 
 📉 Cryptocurrency hodler
 
