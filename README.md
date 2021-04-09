@@ -6,7 +6,7 @@
 
 🌍 Geopolitics enthusiast
 
-📉 Cryptocurrency hodler
+📈 Cryptocurrency hodler
 
 🔨 Trying to re-build my own website for the 100th time with brand new techonologies
 
