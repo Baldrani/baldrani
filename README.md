@@ -4,9 +4,9 @@
 
 🎧 Rap and Techno listener S/O
 
-🌍 Geopolitics enthusiast
+🌍 Geopolitics enthusiast – go SO!
 
-📈 Cryptocurrency hodler
+📈 Cryptocurrency hodler – got some [SO(L)](https://solana.com)
 
 🔨 Trying to re-build my own website for the 100th time with brand new techonologies
 
