@@ -39,7 +39,8 @@
 
 ### My wonderful Gihutb stats..
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=baldrani&theme=onedark)](https://github.com/baldrani/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=baldrani&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 <!-- ![](https://komarev.com/ghpvc/?username=baldrani) -->
