@@ -38,6 +38,9 @@
 <a href="https://solana.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" width="36" height="36" alt="Solana" /></a>
 
 ### My wonderful Gihutb stats..
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=baldrani&theme=onedark)](https://github.com/baldrani/github-profile-trophy)
+
 
 <!-- ![](https://komarev.com/ghpvc/?username=baldrani) -->
 
