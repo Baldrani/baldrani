@@ -43,7 +43,7 @@
 
 
 <!-- ![](https://komarev.com/ghpvc/?username=baldrani) -->
-![Baldrani's GitHub stats](https://github-readme-stats.vercel.app/api?username&count_private=true=Baldrani&show_icons=true&theme=radical)
+![Baldrani's GitHub stats](https://github-readme-stats.vercel.app/api?username=Baldrani&count_private=true&show_icons=true&theme=radical)
 
 
 ### You can find me there..
