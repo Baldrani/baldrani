@@ -1,5 +1,7 @@
 ## Hey I'm Baldráni 👋
 
+🧢 Proud co-founder of [Paris Nord-Est](https://www.instagram.com/parisnord.est/)
+
 👨‍💻 Web passionate you might find me on [SO](https://stackoverflow.com/users/4615178/baldráni)
 
 🎧 Rap and Techno listener S/O
