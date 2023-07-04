@@ -44,8 +44,7 @@
   [![trophy](https://github-profile-trophy.vercel.app/?username=baldrani&countprivate=true&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-<!-- ![](https://komarev.com/ghpvc/?username=baldrani) -->
-![Baldrani's GitHub stats](https://github-readme-stats.vercel.app/api?username=Baldrani&count_private=true&show_icons=true&theme=radical)
+![Baldrani's GitHub stats](https://github-readme-stats-e8zo.vercel.app/api?username=Baldrani&count_private=true&show_icons=true&theme=radical)
 
 
 ### You can find me there..
