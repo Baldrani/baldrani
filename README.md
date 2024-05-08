@@ -1,18 +1,14 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=4E69F7&center=true&vCenter=true&random=false&width=435&lines=Hello+World!;I'm+Ma%C3%ABl+Mayon+%F0%9F%A7%A2;a+professional+Developer+passionate+by+Web+%F0%9F%8C%90" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=4E69F7&center=true&vCenter=true&random=false&width=435&lines=%F0%9F%91%8B+Hello+World!;%F0%9F%91%80+I'm+Ma%C3%ABl+Mayon;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+a+professional+Developer+;%F0%9F%8C%90+passionate+by+Web" alt="Typing SVG" /></a>
 
+![](https://komarev.com/ghpvc/?username=baldrani)
 --- 
 
-🧢 Proud co-founder of [Paris Nord-Est](https://www.instagram.com/parisnord.est/)
-
-👨‍💻 Web passionate you might find me on [SO](https://stackoverflow.com/users/4615178/baldráni)
-
-🎧 Rap and Techno listener S/O
-
-🌍 Geopolitics enthusiast – go SO!
-
-📈 Cryptocurrency hodler – got some [SO(L)](https://solana.com)
-
-🔨 Trying to re-build my own website for the 100th time with brand new techonologies
+- 🧢 Proud co-founder of [Paris Nord-Est](https://www.instagram.com/parisnord.est/)
+- 👨‍💻 Web passionate you might find me on [SO](https://stackoverflow.com/users/4615178/baldráni)
+- 🎧 Rap and Techno listener S/O
+- 🌍 Geopolitics enthusiast – go SO!
+- 📈 Cryptocurrency hodler – got some [SO(L)](https://solana.com)
+- 🔨 Trying to re-build my own website for the 100th time with brand new techonologies
 
 ### A few skills I pretend to know..
 
