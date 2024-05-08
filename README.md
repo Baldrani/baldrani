@@ -1,4 +1,6 @@
-## Hey I'm Baldráni 👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=4E69F7&center=true&vCenter=true&random=false&width=435&lines=Hello+World!;I'm+Ma%C3%ABl+Mayon+%F0%9F%A7%A2;a+professional+Developer+passionate+by+Web+%F0%9F%8C%90" alt="Typing SVG" /></a>
+
+--- 
 
 🧢 Proud co-founder of [Paris Nord-Est](https://www.instagram.com/parisnord.est/)
 
