@@ -41,8 +41,10 @@
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=baldrani&countprivate=true&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+![Metrics](/github-metrics.svg)
+
 <!--- &include_all_commits=true --->
-![Baldrani's GitHub stats](https://github-readme-stats-e8zo.vercel.app/api?username=Baldrani&count_private=true&show_icons=true&theme=radical)
+<!-- ![Baldrani's GitHub stats](https://github-readme-stats-e8zo.vercel.app/api?username=Baldrani&count_private=true&show_icons=true&theme=radical) -->
 
 
 ### You can find me there..
