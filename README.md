@@ -2,8 +2,6 @@
 
 ![](https://komarev.com/ghpvc/?username=baldrani)
 
-![Metrics](/metrics.plugin.isocalendar.fullyear.svg)
-
 --- 
 
 - 🧢 Proud co-founder of [Paris Nord-Est](https://www.instagram.com/parisnord.est/)
