@@ -1,6 +1,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=4E69F7&center=true&vCenter=true&random=false&width=435&lines=%F0%9F%91%8B+Hello+World!;%F0%9F%91%80+I'm+Ma%C3%ABl+Mayon;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+a+professional+Developer+;%F0%9F%8C%90+passionate+by+Web" alt="Typing SVG" /></a>
 
 ![](https://komarev.com/ghpvc/?username=baldrani)
+
+![Metrics](/metrics.plugin.isocalendar.fullyear.svg)
+
 --- 
 
 - 🧢 Proud co-founder of [Paris Nord-Est](https://www.instagram.com/parisnord.est/)
@@ -40,8 +43,8 @@
 ### My wonderful Gihutb stats..
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=baldrani&countprivate=true&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+  ![Metrics](/metrics.plugin.isocalendar.fullyear.svg)
 
-![Metrics](/github-metrics.svg)
 
 <!--- &include_all_commits=true --->
 <!-- ![Baldrani's GitHub stats](https://github-readme-stats-e8zo.vercel.app/api?username=Baldrani&count_private=true&show_icons=true&theme=radical) -->
