@@ -37,12 +37,9 @@
 <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
 <a href="https://solana.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" width="36" height="36" alt="Solana" /></a>
-
-### My wonderful Gihutb stats..
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=baldrani&countprivate=true&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-  ![Metrics](/metrics.plugin.isocalendar.fullyear.svg)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=baldrani&countprivate=true&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![Metrics](/metrics.plugin.isocalendar.fullyear.svg)
 
 <!--- &include_all_commits=true --->
 <!-- ![Baldrani's GitHub stats](https://github-readme-stats-e8zo.vercel.app/api?username=Baldrani&count_private=true&show_icons=true&theme=radical) -->
