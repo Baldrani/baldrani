@@ -25,7 +25,7 @@ Full-stack web developer for 10+ years, from React and Vue front-ends to the API
 
 ### Stats
 
-![Achievements](/metrics.plugin.achievements.svg)
+![Languages](/metrics.plugin.languages.svg)
 ![Metrics](/metrics.plugin.isocalendar.fullyear.svg)
 
 ### Find me
