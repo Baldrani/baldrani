@@ -21,3 +21,13 @@ jobs:
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.languages.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_languages: yes
+          plugin_languages_sections: most-used
+          plugin_languages_details: percentage
+          plugin_languages_limit: 8
+          plugin_languages_skipped: nuxt-blog, gatsby-perso, netlify, SmartCovidPCR, bamboohr-timesheet-greasemonkey, next-ts-website, next-website, abrazosentimental-theme, abrazosentimental, ar-vr-slide, avantsceneconseil, meshorairesjs, Labonode, esgi-cours, stop-it, mawsonry, loanlamoureux-wp, meshoraires, hackathon-helpme, Well-sHouse, ZendGiphy, Catfish, PHPUnitTest, Site-Perso-Laravel, site1_soutenance_docker, WellSlide, Site-Perso-Old, WellMasonry, WellGrid, WellModal, Projet-Outil-Du-Dev, Blog-Wordpress, node-chat, Mini-Blog, Site-PARDON-MAMAN, Tigrou-s-House-Laravel
