@@ -30,7 +30,3 @@ Full-stack web developer for 10+ years, from React and Vue front-ends to the API
   <br />
   <img src="metrics.plugin.isocalendar.fullyear.svg" alt="Contributions calendar" />
 </p>
-
-### Find me
-
-<a href="https://www.linkedin.com/in/maelmayon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a> &nbsp; <a href="https://www.stackoverflow.com/users/4615178/baldráni" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" alt="Stack Overflow" /></a> &nbsp; <a href="https://www.twitter.com/BaldraniThot" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" /></a>
