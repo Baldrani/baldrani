@@ -25,8 +25,11 @@ Full-stack web developer for 10+ years, from React and Vue front-ends to the API
 
 ### Stats
 
-![Languages](/metrics.plugin.languages.svg)
-![Metrics](/metrics.plugin.isocalendar.fullyear.svg)
+<p align="center">
+  <img src="metrics.plugin.languages.svg" alt="Most used languages" />
+  <br />
+  <img src="metrics.plugin.isocalendar.fullyear.svg" alt="Contributions calendar" />
+</p>
 
 ### Find me
 
