@@ -1,47 +1,33 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=4E69F7&center=true&vCenter=true&random=false&width=435&lines=%F0%9F%91%8B+Hello+World!;%F0%9F%91%80+I'm+Ma%C3%ABl+Mayon;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+a+professional+Developer+;%F0%9F%8C%90+passionate+by+Web" alt="Typing SVG" /></a>
+<p align="center"><img src="assets/banner.svg" alt="Maël Mayon, full-stack web developer" /></p>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=4E69F7&center=true&vCenter=true&random=false&width=500&lines=%F0%9F%91%8B+Hello+World!;%F0%9F%91%80+I'm+Ma%C3%ABl+Mayon;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Senior+Software+Engineer;%F0%9F%8C%90+Full-stack+web+development;%F0%9F%A4%96+AI+agent+engineering" alt="Hello World! I'm Maël Mayon, Senior Software Engineer: full-stack web development and AI agent engineering" /></a>
 
 ![](https://komarev.com/ghpvc/?username=baldrani)
 
---- 
+---
 
-- 🧢 Proud co-founder of [Paris Nord-Est](https://www.instagram.com/parisnord.est/)
-- 👨‍💻 Web passionate you might find me on [SO](https://stackoverflow.com/users/4615178/baldráni)
-- 🎧 Rap and Techno listener S/O
-- 🌍 Geopolitics enthusiast – go SO!
-- 📈 Cryptocurrency hodler – got some [SO(L)](https://solana.com)
-- 🔨 Trying to re-build my own website for the 100th time with brand new techonologies
+Full-stack web developer for 10+ years, from React and Vue front-ends to the APIs, serverless services and data behind them.
 
-### A few skills I pretend to know..
+- 📊 I work on Discover, the analytics platform at [Launchmetrics](https://www.launchmetrics.com/)
+- 📸 Before that, I worked on [Spotlight](https://spotlight.launchmetrics.com), a fashion-show image platform
+- 🤖 These days I spend a lot of time with AI coding agents, at work and on side projects
+- 🧢 I co-founded [Paris Nord-Est](https://www.parisnord-est.com/), a streetwear brand, and I look after its store
 
-<table><tr>
-<td><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a></td>
-<td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a></td>
-<td><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a></td>
-<td><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a></td>
-<td><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a></td>
-<td><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a></td>
-<td><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a></td>
-<td><a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg" width="36" height="36" alt="Nuxtjs" /></a></td>
-<td><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a></td>
-</tr><tr>
-<td><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a></td>
-<td><a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a></td>
-<td><a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a></td>
-<td><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a></td>
-<td><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a></td>
-<td><a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a></td>
-<td><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a></td>
-<td><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a></td>
-<td><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a></td>
-</tr></table>
+### What I work with
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=baldrani&countprivate=true&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="assets/stack-front.svg" alt="Front-end: TypeScript, JavaScript, HTML, CSS, React, Next.js, Vue, Nuxt, Sass, Tailwind" />
+  <br /><br />
+  <img src="assets/stack-back.svg" alt="Back-end and tooling: Node.js, Express, GraphQL, AWS, PostgreSQL, MySQL, MongoDB, Redis, Webpack, Babel" />
+  <br /><br />
+  <img src="assets/stack-tools.svg" alt="Data, cloud and AI: React Query, Prisma, OpenSearch, AWS Lambda, SQS, Kinesis, Databricks, GitHub Actions, Claude, MCP" />
+</p>
+
+### Stats
+
+![Achievements](/metrics.plugin.achievements.svg)
 ![Metrics](/metrics.plugin.isocalendar.fullyear.svg)
 
-<!--- &include_all_commits=true --->
-<!-- ![Baldrani's GitHub stats](https://github-readme-stats-e8zo.vercel.app/api?username=Baldrani&count_private=true&show_icons=true&theme=radical) -->
+### Find me
 
-
-### You can find me there..
-
-<a href="https://www.stackoverflow.com/users/4615178/baldráni" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> &nbsp; <a href="https://www.twitter.com/BaldraniThot" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<a href="https://www.linkedin.com/in/maelmayon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a> &nbsp; <a href="https://www.stackoverflow.com/users/4615178/baldráni" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" alt="Stack Overflow" /></a> &nbsp; <a href="https://www.twitter.com/BaldraniThot" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" /></a>
